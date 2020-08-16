@@ -1,2 +1,0 @@
-# web_tech_work
-HTML/ CSS/ JAVASCRIPT/ JQUERY/ BOOTSTRAP
